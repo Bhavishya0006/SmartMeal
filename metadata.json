@@ -1,0 +1,6 @@
+{
+  "name": "SmartMeal – Smart PG Meal Management & Food Waste Reduction System",
+  "description": "Smart Food Management & Waste Reduction system helping PG/mess management reduce food wastage through attendance headcount, preparation planning, inventory, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
